@@ -1,0 +1,12 @@
+{
+  "name": "newpwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "Victor E Lopez",
+  "license": "MIT"
+}
